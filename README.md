@@ -86,3 +86,9 @@ card has incorrect layout and/or number(s):
   exit 4. "card format error"
 If LINUX finishes because user quits prematurely (enters q), or wins:
   exit 0.
+
+## Authors
+Hadi Awan
+Mohamed Issa
+Ayse Yalcin
+Muteeb Syed
