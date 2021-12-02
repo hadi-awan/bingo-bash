@@ -88,7 +88,7 @@ If LINUX finishes because user quits prematurely (enters q), or wins:
   exit 0.
 
 ## Authors
-Hadi Awan
-Mohamed Issa
-Ayse Yalcin
-Muteeb Syed
+Hadi Awan </br>
+Mohamed Issa </br>
+Ayse Yalcin </br>
+Muteeb Syed </br>
