@@ -9,7 +9,7 @@ LINUX "calls" (provides) random numbers one-by-one. Each time a number
 is called, if that number appears on the user's Card, it is "marked".
 User wins when a row, or column, or all 4 corners, becomes marked.
 
-## LINUX CARD:
+## LINUX CARD
 
 A LINUX Card has 5 columns of 5 numbers each.
 The number in the middle must ALWAYS be zero (gets marked for free).
@@ -70,7 +70,7 @@ Each player runs LINUX with the SAME SEED, but a different Card.
 Players coordinate entering characters at the same time.
 When one player wins, this player must alert the others.
 
-## EXIT STATUS:
+## EXIT STATUS
 
 Incorrect input file causes LINUX to exit before playing the game; it sends
 these messages to STDERR and EXIT with these codes:
