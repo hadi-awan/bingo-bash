@@ -37,17 +37,19 @@ comprising the LINUX Card (arranged as a matrix, as above).
 The input file must have exactly 6 lines.
 e.g., you might run your game as follows:
 > LINUX input1
-where file input1 contains the 6 lines:
-1063
-12 23 42 55 74
-04 19 34 46 72
-07 17 00 51 69
-11 30 44 56 62
-09 27 40 47 67
+
+where file input1 contains the 6 lines: <br />
+1063 <br />
+12 23 42 55 74 <br />
+04 19 34 46 72 <br />
+07 17 00 51 69 <br />
+11 30 44 56 62 <br />
+09 27 40 47 67 <br />
 
 ## Play The Game Alone
 
 > LINUX myInputFile
+
 LINUX will display the list of called numbers so far followed by the
 marked Card (initially, call list is empty and only 00 is marked.)
 LINUX always displays Card with column titles "L", "I", "N", "U", "X".
