@@ -89,6 +89,3 @@ If LINUX finishes because user quits prematurely (enters q), or wins:
 
 ## Authors
 Hadi Awan </br>
-Mohamed Issa </br>
-Ayse Yalcin </br>
-Muteeb Syed </br>
